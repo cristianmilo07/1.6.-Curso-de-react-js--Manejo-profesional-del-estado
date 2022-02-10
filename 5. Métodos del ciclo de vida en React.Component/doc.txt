@@ -1,0 +1,10 @@
+Lecturas recomendadas
+
+Qué es y cómo funciona un componente en React | Platzi Cursos - YouTube
+
+https://www.youtube.com/watch?v=2dND8evRRls
+
+
+Ciclo de vida de un componente de React.js
+
+https://platzi.com/blog/ciclo-de-vida-de-un-componente-de-reactjs/

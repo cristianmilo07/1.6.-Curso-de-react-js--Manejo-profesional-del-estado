@@ -1,0 +1,10 @@
+Lecturas recomendadas
+
+Curso de React.js [Empieza Gratis] - Platzi
+
+https://platzi.com/cursos/react/
+
+
+Curso de React.js: Patrones de Render - Platzi
+
+https://platzi.com/cursos/react-patrones-render/

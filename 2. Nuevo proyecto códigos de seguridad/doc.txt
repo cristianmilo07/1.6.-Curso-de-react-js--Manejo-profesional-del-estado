@@ -1,0 +1,15 @@
+Lecturas recomendadas
+
+React App
+
+https://juandc.github.io/usestate-vs-usereducer/
+
+
+Curso de Programación Orientada a Objetos en JavaScript - Platzi
+
+https://platzi.com/cursos/javascript-poo/
+
+
+Initialize project using Create React App · platzi/curso-react-estado-1@88f89ff · GitHub
+
+https://github.com/platzi/curso-react-estado-1/commit/88f89fffd05f57beaffb92b2eb2794fc3dd7bd68

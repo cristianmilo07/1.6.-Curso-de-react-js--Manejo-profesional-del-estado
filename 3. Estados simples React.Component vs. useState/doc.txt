@@ -1,0 +1,5 @@
+Lecturas recomendadas
+
+Clase 02 en orden de grabación · platzi/curso-react-estado-1@d524e10 · GitHub
+
+https://github.com/platzi/curso-react-estado-1/commit/d524e10df05819fe9bfce7cd165f552ea01b27d5
